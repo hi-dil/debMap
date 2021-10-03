@@ -1,0 +1,23 @@
+{
+  "name": "nasaspaceapps",
+  "version": "1.0.0",
+  "description": "Used to track space debris in virtual globe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-dil/debcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-dil/debcode/issues"
+  },
+  "homepage": "https://github.com/hi-dil/debcode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
