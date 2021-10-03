@@ -5,7 +5,7 @@ To run this web application you need to run the server by typing this in the roo
 
 `node server.js`
 
-After the server has run, you can access the website at port '3000'. [localhost:3000](localhost:3000)
+After the server has run, you can access the website from your localhost at port '3000'.
 
 ## Using live server in visual studio code
 Alternatively, you can run the web application using [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in visual studio code
@@ -18,5 +18,6 @@ Please note that the web application will take some time to load the data
 
 # ScreenShot of the Web Applications
 ![screen shot 1](https://i.imgur.com/PBaf7uY.png)
-![screen shot 2](https://i.imgur.com/BUIGC9y.png)
-![screen shot 3](https://i.imgur.com/BxoE70H.png)
+![screen shot 2](https://i.imgur.com/BxoE70H.png)
+![screen shot 3](https://i.imgur.com/BUIGC9y.png)
+
