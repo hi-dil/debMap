@@ -1,2 +1,2 @@
-# debcode
+# DebMap
 DebMap
